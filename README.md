@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Walid Majdoubi</h1>
 <h3 align="center">A passionate full-stack developer from Paris</h3>
 
-- 🔭 I’m currently working ona social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies](www.gofoodies.me)
+- 🔭 I’m currently working on a social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies](https://foodies123-f84379a8dea2.herokuapp.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🔨 A project I created with my team is an Airbnb clone for renting tools: [Rent-a-tool](https://rent-a-tool-6caff73a62c4.herokuapp.com/)
 
-- 👯 I’m looking to collaborate on **interesting project that can help me improve my skills**
+- - 🌱 I’m currently learning **Python**
 
-- 📄 Know about my experiences [resume](https://flowcv.com/resume/ge4qd7p24r)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/ge4qd7p24r)
 
 - 💬 Ask me about **anything, I will try to help;**
 
