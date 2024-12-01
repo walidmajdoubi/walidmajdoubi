@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walid Majdoubi</h1>
-<h3 align="center">A passionate full-stack developer from Paris</h3>
+<h3 align="center">A passionate DevOps and Cloud enthusiast from Paris</h3>
 
-- 🔭 I’m currently working on a social media app that simplifies the joy of sharing of cooking and eating with friends: [Foodies](https://foodies123-f84379a8dea2.herokuapp.com/)
+- 🔭  I’m currently pursuing a **DevOps bootcamp** and working on **AWS certifications** to achieve my goal of becoming an **AWS expert**.
 
-- 🔨 A project I created with my team is an Airbnb clone for renting tools: [Rent-a-tool](https://rent-a-tool-6caff73a62c4.herokuapp.com/)
-
-- - 🌱 I’m currently learning **Python**
+- 🎓 I recently earned the **AWS Cloud Practitioner Certification**, marking my first step toward cloud mastery.
 
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/ge4qd7p24r)
 
